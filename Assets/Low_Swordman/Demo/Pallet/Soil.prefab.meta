@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26623e9723fed51408979b691935514d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133259
+  packageName: '2D Simple Character : Swordman'
+  packageVersion: 1.0
+  assetPath: Assets/Low_Swordman/Demo/Pallet/Soil.prefab
+  uploadId: 279531

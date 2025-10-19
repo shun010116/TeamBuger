@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6bda1f5bf4224db44b12251ff5bfe8cb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133259
+  packageName: '2D Simple Character : Swordman'
+  packageVersion: 1.0
+  assetPath: Assets/Low_Swordman/2.Animation/sword_man.controller
+  uploadId: 279531

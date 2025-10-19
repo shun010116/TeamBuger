@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6877fb649746c674d8fbbcf60d41892b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133259
+  packageName: '2D Simple Character : Swordman'
+  packageVersion: 1.0
+  assetPath: Assets/Low_Swordman/3.Prefab/sword_man.prefab
+  uploadId: 279531

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 14dc69de864209a4abd8b6de40857671
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133259
+  packageName: '2D Simple Character : Swordman'
+  packageVersion: 1.0
+  assetPath: Assets/Low_Swordman/Demo/Scripts/GroundSensor.cs
+  uploadId: 279531
