@@ -11,9 +11,9 @@ public class RestStopSpawner : MonoBehaviour
     public MazeGenerator mazeGenerator;
     public Transform restStopContainer;
     
-    [Header("스폰 프리팹")]
-    [Tooltip("휴게소 영역의 중심에 스폰할 프리팹 (NPC, 아이템 상자 등)")]
-    public GameObject restStopContentPrefab; 
+    // [Header("스폰 프리팹")]
+    // [Tooltip("휴게소 영역의 중심에 스폰할 프리팹 (NPC, 아이템 상자 등)")]
+    // public GameObject restStopContentPrefab; 
     [Tooltip("휴게소 영역의 네 꼭짓점을 표시할 스프라이트 프리팹")]
     public GameObject cornerSpritePrefab; 
     [Tooltip("휴게소 이벤트 로직을 담을 프리팹 (RestStopEvent.cs 포함)")]
@@ -165,10 +165,10 @@ public class RestStopSpawner : MonoBehaviour
         spawnedRestStops.Add(restStopEvent);
 
         // --- 내용물 스폰 ---
-        if (restStopContentPrefab != null)
-        {
-            Instantiate(restStopContentPrefab, areaCenterWorld, Quaternion.identity, eventObj.transform);
-        }
+        // if (restStopContentPrefab != null)
+        // {
+        //     Instantiate(restStopContentPrefab, areaCenterWorld, Quaternion.identity, eventObj.transform);
+        // }
 
         // --- 코너 스프라이트 ---
         if (cornerSpritePrefab != null)

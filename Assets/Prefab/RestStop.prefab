@@ -153,4 +153,4 @@ MonoBehaviour:
   allowRoutePassThrough: 0
   staminaToRestore: 10
   fadeDuration: 0.5
-  fadeImage: {fileID: 4904634277083727191, guid: 9c411c69aa1de2548b561689621a79ec, type: 3}
+  fadeImage: {fileID: 0}

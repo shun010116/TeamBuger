@@ -915,7 +915,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RestStopSpawner
   mazeGenerator: {fileID: 2110436536}
   restStopContainer: {fileID: 1642446596}
-  restStopContentPrefab: {fileID: 1290715225530138, guid: e004b51165ed8f34585fa0a66116d7df, type: 3}
   cornerSpritePrefab: {fileID: 654617006592600765, guid: 705a0645d621b074a9767168a9955f5e, type: 3}
   restStopEventPrefab: {fileID: 5708948018257870678, guid: 303fc3055089ecb4cbafbcdae8f9ea25, type: 3}
   minWidth: 1
@@ -925,7 +924,7 @@ MonoBehaviour:
   deadEndSearchRadius: 3
   nearRestStopCount: 3
   minSpawnDistance: 5
-  maxSpawnDistance: 20
+  maxSpawnDistance: 10
   minRestStopSpacing: 15
   farRestStopCount: 2
   farRestStopSpacing: 30
@@ -1134,8 +1133,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30240b17be7e2554fb42c53ca172fcd3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FadeManager
-  fadeImage: {fileID: 0}
-  fadeDuration: 0.5
 --- !u!1 &1196215748
 GameObject:
   m_ObjectHideFlags: 0
